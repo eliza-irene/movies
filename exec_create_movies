@@ -1,0 +1,2 @@
+#!/bin/bash
+psql movies -f create_schema_movies.sql
